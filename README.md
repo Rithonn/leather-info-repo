@@ -7,6 +7,9 @@ Project creation with the intention of using this as a source of info for myself
 
 - [Leather Sizing Charts](#leather-sizing-charts)
 - [Types of Leather](#types-of-leather)
+- [Leather Stores I Use](#leather-stores-i-use)
+- [Pattern Websites](#pattern-websites)
+- [The Big List of Leathercraft YouTubers](#the-big-list-of-leathercraft-youtubers)
 
 ## Leather Sizing Charts
 [ToC](#table-of-contents)
@@ -30,10 +33,8 @@ Project creation with the intention of using this as a source of info for myself
 
 **Description:**  
 The highest quality, retaining the entire grain layer of the hide. It's not sanded or buffed, preserving its natural texture and strength.
-
 **Characteristics:**  
 Most durable, ages beautifully with a unique patina, and often more expensive.
-
 **Uses:**  
 High-end products like belts, wallets, and shoes.
 
@@ -88,3 +89,74 @@ The lowest grade, least durable, and most affordable.
 
 **Uses:**  
 Upholstery, bookbinding, and other applications where cost is a major factor.
+
+---
+
+## Leather Stores I Use
+[ToC](#table-of-contents)
+
+### General Supplies & Leather
+
+- [Buckleguy](https://www.buckleguy.com/) – Hardware & Leather
+- [Springfield Leather](https://springfieldleather.com/) - Leather & Patterns
+- [District Leather Supply](https://districtleathersupply.com/) – Glue & Thread  
+- [Maker’s Leather Supply](https://makersleathersupply.com/) – Project Boxes  
+- [Weaver Leather Supply](https://www.weaverleathersupply.com/) – Hardware and some Leather  
+- [Montana Leather Company](https://www.montanaleather.com/) – Leather  
+- [RM Leather Supply](https://www.rmleathersupply.com/) – Leather (but expensive)  
+- [Maine Thread](https://mainethread.com/) – Thread  
+- [Bruce Johnson Leather](https://brucejohnsonleather.com/) – Refurbished Tools  
+- [Artisan Leather Supply](https://www.artisanleathersupply.com/) – Tools  
+- [Kevin Leather Tools](https://www.kevinleathertools.com/) – Tools  
+- [The Thread Exchange](https://www.thethreadexchange.com/) – Sewing Machine Thread  
+
+---
+
+## Pattern Websites
+[ToC](#table-of-contents)
+
+- [Corter Leather](https://corterleather.com/)  
+- [DG Saddlery](https://shop.dgsaddlery.com/)  
+- [Vasile & Pavel](https://vasileandpavel.com/)  
+- [Creative Awl](https://creativeawl.com/)  
+- [Leather Hub Patterns](https://www.leatherhubpatterns.com/)
+- [Kartlova Designs](https://karlovadesign.com/)
+
+---
+
+## The Big List of Leathercraft YouTubers
+[ToC](#table-of-contents) 
+
+- [80 Proof Goods](https://www.youtube.com/@80ProofGoods)  
+- [AltoPotem Leathercraft](https://www.youtube.com/@altopontem)  
+- [Anchored Leatherworks](https://www.youtube.com/@AnchoredLeatherworks)  
+- [Armitage Leather Ltd](https://www.youtube.com/@ArmitageLeather)  
+- [Bateisha Leather](https://www.youtube.com/@bateisha)  
+- [Black Flag Leather Goods](https://www.youtube.com/@BlackFlagLeatherGoods)  
+- [Coastline Leather Goods](https://www.youtube.com/@coastlineleathergoods)  
+- [Corter Leather](https://www.youtube.com/@Corter)  
+- [Craft and Lore](https://www.youtube.com/@craftnlore)  
+- [DieselpunkRo](https://www.youtube.com/@DieselpunkRo)  
+- [Don Gonzales](https://www.youtube.com/@DonGonzalesMaker)  
+- [J.H. Leather](https://www.youtube.com/@JHLeather)  
+- [James Graves](https://www.youtube.com/@JamesKGraves)  
+- [January 18 Official](https://www.youtube.com/@January18Official)  
+- [Joe Meling](https://www.youtube.com/@joemeling3216)  
+- [Just a Nazarene Leather Co.](https://www.youtube.com/@justanazareneleatherco)  
+- [Leather DIY Studio](https://www.youtube.com/@leatherdiystudio)  
+- [Legacy Brand Leather](https://www.youtube.com/@legacybrandleather)  
+- [Makers Leather Supply](https://www.youtube.com/@makersleathersupply1220)  
+- [MAKESUPPLY](https://www.youtube.com/@MAKESUPPLYLEATHER)  
+- [Mascon Leather](https://www.youtube.com/@MasconLeather)  
+- [MC Frontier Goods](https://www.youtube.com/@MCFrontierGoods)  
+- [Mythic Forge](https://www.youtube.com/@MythicForge)  
+- [Old Coyote Leather Goods](https://www.youtube.com/@Oldcoyoteleathergoods)  
+- [PXK Leathercraft](https://www.youtube.com/@P.X.K_LeatherCraft)  
+- [Pirate Goods](https://www.youtube.com/@PirateGoods)  
+- [Robert Little (In My Busy Little Shop)](https://www.youtube.com/@InMyBusyLittleShop)  
+- [Springbok Craft Co](https://www.youtube.com/@SpringbokCraftCo)  
+- [Strauss and Co](https://www.youtube.com/@straussandcoleather)  
+- [The Leatherverse](https://www.youtube.com/@TheLeatherverse)  
+- [Weaver Leather Supply](https://www.youtube.com/@WeaverLeatherSupply)  
+- [Whit and Park](https://www.youtube.com/@whitandpark)
+
