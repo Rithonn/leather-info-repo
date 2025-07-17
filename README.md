@@ -10,6 +10,7 @@ Project creation with the intention of using this as a source of info for myself
 - [Leather Stores I Use](#leather-stores-i-use)
 - [Pattern Websites](#pattern-websites)
 - [The Big List of Leathercraft YouTubers](#the-big-list-of-leathercraft-youtubers)
+- [Captain's Log](#captains-log)
 
 ## Leather Sizing Charts
 [ToC](#table-of-contents)
@@ -160,3 +161,8 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 - [Weaver Leather Supply](https://www.youtube.com/@WeaverLeatherSupply)  
 - [Whit and Park](https://www.youtube.com/@whitandpark)
 
+# Captain's Log
+[ToC](#table-of-contents)
+
+#### 7/17/2025
+- Worked on a watch strap commission, organized workshop
