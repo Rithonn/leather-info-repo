@@ -166,3 +166,7 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 
 #### 7/17/2025
 - Worked on a watch strap commission, organized workshop
+#### 7/18/2025
+- Shipping out commission
+- Designed and made a new Passport/Field Notes Journal
+- Working on another journal with finished design
