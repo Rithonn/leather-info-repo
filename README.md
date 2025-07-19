@@ -170,3 +170,7 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 - Shipping out commission
 - Designed and made a new Passport/Field Notes Journal
 - Working on another journal with finished design
+#### 7/19/2025
+- Finishing journal pattern
+- Making a quote for Nato Watch Strap
+- Looking into best way to make pattern mockups online
