@@ -174,3 +174,5 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 - Finishing journal pattern
 - Making a quote for Nato Watch Strap
 - Looking into best way to make pattern mockups online
+- Finished another journal
+- Starting to pattern knife sheath
