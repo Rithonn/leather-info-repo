@@ -179,3 +179,7 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 #### 7/21/2025
 - Finished two field notes journals
 - Testing out new kiridashi 
+#### 7/22/2025
+- Very happy with pattern - Needs a name
+- Starting research on knife sheath 
+- Dicing up new leather order into more workable parts
