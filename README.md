@@ -176,3 +176,6 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 - Looking into best way to make pattern mockups online
 - Finished another journal
 - Starting to pattern knife sheath
+#### 7/21/2025
+- Finished two field notes journals
+- Testing out new kiridashi 
