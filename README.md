@@ -183,3 +183,4 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 - Very happy with pattern - Needs a name
 - Starting research on knife sheath 
 - Dicing up new leather order into more workable parts
+- This guy was really helpful with my sheath [idea](https://www.youtube.com/watch?v=TDmRrZgaG8M)
