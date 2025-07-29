@@ -184,3 +184,9 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 - Starting research on knife sheath 
 - Dicing up new leather order into more workable parts
 - This guy was really helpful with my sheath [idea](https://www.youtube.com/watch?v=TDmRrZgaG8M)
+
+
+#### 7/28/2025
+- Back from vacation
+- Working on patterning out a small shoulderbag
+- Started in on two knife sheath designs
