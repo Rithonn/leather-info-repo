@@ -202,3 +202,8 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 #### 7/25/2025
 - Getting readme caught up
 - Enjoying vacation
+
+#### 7/28/2025
+- Back from vacation
+- Working on patterning out a small shoulderbag
+- Started in on two knife sheath designs
