@@ -190,3 +190,6 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 - Back from vacation
 - Working on patterning out a small shoulderbag
 - Started in on two knife sheath designs
+#### 7/30/2025
+- Finished Belt for client
+- Finished patterning/making knife sheath design
