@@ -184,7 +184,24 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 - Starting research on knife sheath 
 - Dicing up new leather order into more workable parts
 - This guy was really helpful with my sheath [idea](https://www.youtube.com/watch?v=TDmRrZgaG8M)
-
+#### 7/23/2025
+- Drew up two patterns for leather knife sheath
+- After looking into I noticed the way the client wants the sheath will not be possible
+    I had talked to Diomedies industries about the design and it just won't be possible with leather.
+    The client had wanted the knife sheath to have grommets on the outside following the blade and for it to be able to go upside down
+    on a backpack strap like in the movies. The problem is the blade does not have a hilt to attach a strap to hold the blade in place.
+    Without anything to hold the blade it will fall right out. I thought about putting magnets inside to keep the blade secure but
+    I wouldn't want to trust the magnets to do the correct job. Asking my Dad to send info to the client to see if they are ok
+    with changing the pattern or if I should just return the knife sheath.
+- Started to tinker with Github pages to explore options for static generating a website to host this info in a more
+    user friendly readable format.
+- Finished two github pages tests. One with Svite, and the other with Nextjs. I like svite more and want to use that for further
+    trial runs
+#### 7/24/2025
+- Start of my vacation, not sure how much I will post until Monday
+#### 7/25/2025
+- Getting readme caught up
+- Enjoying vacation
 
 #### 7/28/2025
 - Back from vacation
