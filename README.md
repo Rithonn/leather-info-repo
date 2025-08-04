@@ -210,3 +210,11 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 #### 7/30/2025
 - Finished Belt for client
 - Finished patterning/making knife sheath design
+#### 7/31/2025
+- Finished shoulderbag design. Not a fan of flap
+- Working on knife sheath
+#### 8/1/2025
+- Got 3d printed tool holders
+- Redoing workshop - Organizing
+#### 8/3/2025
+- Still organizing...
