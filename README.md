@@ -218,3 +218,7 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 - Redoing workshop - Organizing
 #### 8/3/2025
 - Still organizing...
+#### 8/6/2025
+- Finished sheath.. pretty happy with it. Need fixes down the road
+#### 8/7/2025
+- Added a metal slide and paracord to knife to hold it in place better
