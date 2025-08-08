@@ -222,3 +222,7 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 - Finished sheath.. pretty happy with it. Need fixes down the road
 #### 8/7/2025
 - Added a metal slide and paracord to knife to hold it in place better
+#### 8/8/2025
+- Getting new knife for skiving today
+- Looping back to work on a satchel now that all comissions are done
+- Finished revising pattern for small women's bag
