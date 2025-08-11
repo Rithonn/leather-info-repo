@@ -226,3 +226,8 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 - Getting new knife for skiving today
 - Looping back to work on a satchel now that all comissions are done
 - Finished revising pattern for small women's bag
+#### 8/10/2025
+- Clicked out pattern
+- Testing different skiving knives 
+- Recieved new rolls royce knife. Only used to crappier knives
+- Finished building shelf system for the workbench
