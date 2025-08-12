@@ -231,3 +231,12 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 - Testing different skiving knives 
 - Recieved new rolls royce knife. Only used to crappier knives
 - Finished building shelf system for the workbench
+#### 8/11/2025
+- Finished bag pattern. Pretty happy with it. Will need to figure out the best way to incorporate
+some king of piping system for the bag to add more flare. Not happy with the flap.. Need to figure out a better way to 
+add some flare to the bags flap. Might try stitching the entire way around the bag. 
+Might also want to think about trying to incorporate a second gusset that is used for attaching to the back
+panel.
+- Working on Pony Express Satchel. Finished clicking out brown bridle for d ring holders
+
+[ToC](#table-of-contents)
