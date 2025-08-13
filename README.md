@@ -240,3 +240,7 @@ panel.
 - Working on Pony Express Satchel. Finished clicking out brown bridle for d ring holders
 
 [ToC](#table-of-contents)
+
+#### 8/12/2025
+- Finished gusset for the pony express satchel
+- Finished attaching all hardware to pony express satchel including Strap holders
