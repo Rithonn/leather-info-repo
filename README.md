@@ -244,3 +244,11 @@ panel.
 #### 8/12/2025
 - Finished gusset for the pony express satchel
 - Finished attaching all hardware to pony express satchel including Strap holders
+
+#### 8/25/2025
+- Been a while since updates came out. Been busy with work but also I have been working on things
+- Took a leather shop class up at Tandy and made a work tote bag. Works perfect for wrenching on my motorcycle
+- Also final dove into the deep end made a mailbag. Not perfect but also exactly what I wanted out of a big bag
+- Sharpened all my tools and starting to get ready to make new wallet designs
+- Want to investigate more bag designs and refine mailbag now that it is complete. 
+    Still unsure if I want to make an internal pocket or have a pocket hang by rivets instead.
