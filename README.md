@@ -252,3 +252,9 @@ panel.
 - Sharpened all my tools and starting to get ready to make new wallet designs
 - Want to investigate more bag designs and refine mailbag now that it is complete. 
     Still unsure if I want to make an internal pocket or have a pocket hang by rivets instead.
+
+#### 9/08/2025
+-Updated bag and finished it. See instagram for pictures. Bag turned out just the way I wanted
+    - Be wary of closure going forward. Might want to make it hand higher on the bag so it doesnt open when it is sat down
+- Made a laptop cover based on designs from Illume
+- Signed up for Illume to see if tutorials are worth the price tag.
