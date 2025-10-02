@@ -10,6 +10,7 @@ Project creation with the intention of using this as a source of info for myself
 - [Leather Stores I Use](#leather-stores-i-use)
 - [Pattern Websites](#pattern-websites)
 - [The Big List of Leathercraft YouTubers](#the-big-list-of-leathercraft-youtubers)
+- [Illume Platform Review](#illume-course-review)
 - [Captain's Log](#captains-log)
 
 ## Leather Sizing Charts
@@ -161,6 +162,11 @@ Upholstery, bookbinding, and other applications where cost is a major factor.
 - [Weaver Leather Supply](https://www.youtube.com/@WeaverLeatherSupply)  
 - [Whit and Park](https://www.youtube.com/@whitandpark)
 
+# Illume Course review
+[ToC](#table-of-contents)
+
+-TBD
+
 # Captain's Log
 [ToC](#table-of-contents)
 
@@ -258,3 +264,16 @@ panel.
     - Be wary of closure going forward. Might want to make it hand higher on the bag so it doesnt open when it is sat down
 - Made a laptop cover based on designs from Illume
 - Signed up for Illume to see if tutorials are worth the price tag.
+
+#### 10/2/2025
+-Worked through a ton of illume courses to review
+    - Want to make a video review of this at some point. Will probably post my thoughts
+    somewhere on this readme for people that are interested
+    [ToC](#illume-course-review)
+-Made another Leather hand, Thing, for Hive with some spooky items to go along with it
+-Made a few bags in the past month for the Mrs and other people that have been interested
+-Purchased Karlova Design mini Manequinn patternt make
+    - Finished sewing it, waiting on Dowel rode to finish the stand
+-Entered into an expo to show off some of the leather pieces that I have made
+-Pricing out some straps for watches
+-Working on a workshop tour video
