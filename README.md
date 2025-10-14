@@ -277,3 +277,11 @@ panel.
 -Entered into an expo to show off some of the leather pieces that I have made
 -Pricing out some straps for watches
 -Working on a workshop tour video
+
+#### 10/14/2025
+- Did some workshop cleanup
+- Ordered new thread to run through sewing machine
+    Originally had it at 138tex type
+- Thread going down to 69Tex
+- Working on making watch straps for an order
+- Looking at backpack designs
