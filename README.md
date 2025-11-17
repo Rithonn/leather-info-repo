@@ -285,3 +285,12 @@ panel.
 - Thread going down to 69Tex
 - Working on making watch straps for an order
 - Looking at backpack designs
+
+#### 11/17/2025
+- Picked up a seasonal job to help with some cash
+    - Projects will be delayed going forward until after the holidays
+- Started work on a new purse for a friend 
+- Grabbed leftover items from expo
+- Made another Thing Hand for family for a christmas present
+- Finished up watch straps and made a belt for work.
+- Looking into belt bag design for work to hold telezon and utility knife for boxes
