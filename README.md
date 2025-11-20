@@ -294,3 +294,6 @@ panel.
 - Made another Thing Hand for family for a christmas present
 - Finished up watch straps and made a belt for work.
 - Looking into belt bag design for work to hold telezon and utility knife for boxes
+#### 11/20/2025
+- Reworked design of one of the patterns for the bag. Did not like the closure
+- Started mapping out belt bag design
